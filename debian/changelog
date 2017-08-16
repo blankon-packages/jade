@@ -1,3 +1,9 @@
+jade (1.2.1-47.4blankon2) uluwatu; urgency=medium
+
+  * Change compat from 3 to 9
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Wed, 16 Aug 2017 21:23:09 +0800
+
 jade (1.2.1-47.4blankon1) uluwatu; urgency=medium
 
   * Initial import to uluwatu
